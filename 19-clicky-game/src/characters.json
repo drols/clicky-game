@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Luigi",
+      "image": "https://www.mariowiki.com/images/1/1d/LuigiSSBU.png",
+      "game": "Super Mario Bros."
+    },
+    {
+        "id": 2,
+        "name": "Mario",
+        "image": "https://www.mariowiki.com/images/3/3e/Mario_SSBUltimate.png",
+        "game": "Super Mario Bros."
+    },
+    {
+        "id": 3,
+        "name": "Donkey Kong",
+        "image": "https://www.mariowiki.com/images/7/7e/DonkeyKong_SSBU.png",
+        "game": "Donkey Kong"
+    },
+    {
+        "id": 4,
+        "name": "Link",
+        "image": "https://www.mariowiki.com/images/5/5e/LinkSSBU.png",
+        "game": "The Legend of Zelda"
+    },
+    {
+        "id": 5,
+        "name": "Samus",
+        "image": "https://www.mariowiki.com/images/0/03/Samus_SSBU.png",
+        "game": "Metroid"
+    },
+    {
+        "id": 6,
+        "name": "Captain Falcon",
+        "image": "https://www.mariowiki.com/images/7/76/CaptainFalcon_SSBU.png",
+        "game": "F-Zero"
+    },
+    {
+        "id": 7,
+        "name": "Ness",
+        "image": "https://www.mariowiki.com/images/8/82/Ness_SSBU.png",
+        "game": "Earthbound"
+    },
+    {
+        "id": 8,
+        "name": "Yoshi",
+        "image": "https://www.mariowiki.com/images/c/ce/YoshiSSBU.png",
+        "game": "Super Mario World"
+    },
+    {
+        "id": 9,
+        "name": "Kirby",
+        "image": "https://www.mariowiki.com/images/0/07/Kirby_SSBU.png",
+        "game": "Kirby's Dreamland"
+    },
+    {
+        "id": 10,
+        "name": "Fox",
+        "image": "https://www.mariowiki.com/images/2/2f/Fox_SSBU.png",
+        "game": "Star Fox"
+    },
+    {
+        "id": 11,
+        "name": "Pikachu",
+        "image": "https://www.mariowiki.com/images/9/93/Pikachu_SSBU.png",
+        "game": "Pokemon"
+    },
+    {
+        "id": 12,
+        "name": "Jigglypuff",
+        "image": "https://www.mariowiki.com/images/6/6a/Jigglypuff_SSBU.png",
+        "game": "Pokemon"
+    }
+]
